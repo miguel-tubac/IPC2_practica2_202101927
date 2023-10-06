@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff; /* Azul claro */
+    color: #000080; /* Azul marino */
+    margin: 20px;
+}
+
+header {
+    text-align: center;
+}
+
+h1 {
+    color: #000080; /* Azul marino */
+}
+
+section {
+    margin-top: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #000080; /* Borde inferior azul marino */
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%;
+    margin-top: 20px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
